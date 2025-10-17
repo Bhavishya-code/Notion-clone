@@ -13,7 +13,7 @@ A sleek, minimalist web application inspired by **Notion**, offering a versatile
 
 Check out the live version [here](https://noter-sepia.vercel.app/).
 
-## 📸 Screenshot
+
 
 ## ✨ Core Features
 
